@@ -1,5 +1,7 @@
 .App {
+  padding: 20px;
   text-align: center;
+  font-family: 'Dancing Script', cursive;
 }
 
 .App-logo {

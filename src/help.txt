@@ -1,0 +1,11 @@
+///https://images.pexels.com/photos/2087748/pexels-photo-2087748.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+
+//https://www.cookingclassy.com/wp-content/uploads/2019/04/Slow-Cooker-Barbacoa-Beef-10.jpg
+
+
+       <Dish 
+        key='dish'
+        id={dishes.dishes[0].number}
+        dish={dishes.dishes[0].dish.en}
+        description={dishes.dishes[0].content.en}
+        />
