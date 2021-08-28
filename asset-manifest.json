@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/patrona/static/css/main.fbb1ecb7.chunk.css",
+    "main.js": "/patrona/static/js/main.4cf31544.chunk.js",
+    "main.js.map": "/patrona/static/js/main.4cf31544.chunk.js.map",
+    "runtime-main.js": "/patrona/static/js/runtime-main.ef62f336.js",
+    "runtime-main.js.map": "/patrona/static/js/runtime-main.ef62f336.js.map",
+    "static/js/2.a427e973.chunk.js": "/patrona/static/js/2.a427e973.chunk.js",
+    "static/js/2.a427e973.chunk.js.map": "/patrona/static/js/2.a427e973.chunk.js.map",
+    "static/js/3.6516300c.chunk.js": "/patrona/static/js/3.6516300c.chunk.js",
+    "static/js/3.6516300c.chunk.js.map": "/patrona/static/js/3.6516300c.chunk.js.map",
+    "index.html": "/patrona/index.html",
+    "static/css/main.fbb1ecb7.chunk.css.map": "/patrona/static/css/main.fbb1ecb7.chunk.css.map",
+    "static/js/2.a427e973.chunk.js.LICENSE.txt": "/patrona/static/js/2.a427e973.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef62f336.js",
+    "static/js/2.a427e973.chunk.js",
+    "static/css/main.fbb1ecb7.chunk.css",
+    "static/js/main.4cf31544.chunk.js"
+  ]
+}
